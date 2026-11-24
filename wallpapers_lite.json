@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Skyline Sunset",
+    "author": "Zeiba Developer",
+    "url": "https://raw.githubusercontent.com/zeibadev-pixel/miami-wallpapers/main/miami_sunset.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/zeibadev-pixel/miami-wallpapers/main/miami_sunset_thumb.jpg",
+    "collections": "Miami Skyline",
+    "dimensions": "1440x3200",
+    "downloadable": true
+  },
+  {
+    "name": "Beach Sunset",
+    "author": "Zeiba Developer",
+    "url": "https://raw.githubusercontent.com/zeibadev-pixel/miami-wallpapers/main/beach_sunset.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/zeibadev-pixel/miami-wallpapers/main/beach_sunset_thumb.jpg",
+    "collections": "Miami Beach",
+    "dimensions": "1440x3200",
+    "downloadable": true
+  }
+]
